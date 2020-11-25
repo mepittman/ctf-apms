@@ -1,0 +1,11 @@
+./*~
+./data/databases/gnomad_constraint.txt
+./data/databases/9606.mitab.22012018.txt.zip
+./data/databases/GTEx*
+./intermediate/
+./testing_ground/
+./setup.ipynb
+./saintq/
+./saintq*
+./removed_code_snippets.ipynb
+./manuscript/*
