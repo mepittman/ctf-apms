@@ -11,7 +11,7 @@ source activate ctf_env
 ### Download data and create necesssary folders
 python setup.py
 
-### Interact with 
+### Interact with code
 cd jupyter_notebooks/
 jupyter notebook
 
