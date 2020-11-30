@@ -1,0 +1,7 @@
+Raw.file	Fraction	Experiment	Condition	BioReplicate	IsotopeLabelType	Run	SAINT
+qx010316	NA	pcdna_1	control	control-1	L	1	C
+qx010318	NA	pcdna_2	control	control-2	L	2	C
+qx010320	NA	pcdna_3	control	control-3	L	3	C
+qx010322	NA	tbx5_1	tbx5	tbx5-1	L	4	T
+qx010324	NA	tbx5_2	tbx5	tbx5-2	L	5	T
+qx010326	NA	tbx5_3	tbx5	tbx5-3	L	6	T

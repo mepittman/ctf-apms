@@ -1,0 +1,6 @@
+Blinded ID,Cardiac Category,EM,NDD,GT,CHR,POS,REF,ALT,Func.refGene,ExonicFunc.refGene,Gene,AA change,ExAC_ALL,HHE Rank,pLI Score,Type
+GATA4,NA,NA,NA,0/1,8,11607722,G,A,exonic,misD,GATA4,p.G296S,.,96.6,0.8,NA
+OLIGO,NA,NA,NA,0/1,5,172660192,C,A,exonic,misD,NKX2-5, p.A119S,.,95.9,0.86,Transmitted
+OLIGO,NA,NA,NA,0/1,16,14341127,G,T,exonic,misD,MKL2,p.Q670H,.,78,1,Transmitted
+OLIGO,NA,NA,NA,0/1,20,23898536,G,A,exonic,misD,MYH7,p.L387F,.,94.7,0,Transmitted
+NKX25,NA,NA,NA,0/1,5,172660387,G,G,exonic,misD,NKX2-5,p.I184M,.,95.9,0.86,NA
